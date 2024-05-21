@@ -156,7 +156,7 @@ body
 /* ----------------FECHAS DEL CONCIERTO------------------*/
 .contain-shadow
 {
-    font-family: 'Quicksand', sans-serif;    
+    font-family: 'Quicksand', sans-serif;
     margin: 1rem 0;
     border-radius: 2rem;
     background-color: var(--AzulCeleste3);
@@ -166,8 +166,7 @@ body
     margin-left: auto;
 }
 
-.contain-shadow h3 
-{
+.contain-shadow h3 {
     text-align: center;    
     font-size: 4rem;
     color: aliceblue;
@@ -226,8 +225,7 @@ body
     margin: 0 auto; /* Centra la imagen horizontalmente */
 }
 
-#myCarousel 
-{
+#myCarousel{
     background-color: var(--AzulCeleste3);
     padding: 1.5rem;
     max-width: 150rem;
